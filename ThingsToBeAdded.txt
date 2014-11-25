@@ -1,0 +1,4 @@
+If we end up using a HobbyKing ESC, we will want to flash it with the SimonK firmware from https://github.com/sim-/tgy , https://docs.google.com/spreadsheet/ccc?key=0AhR02IDNb7_MdEhfVjk3MkRHVzhKdjU1YzdBQkZZRlE#gid=0
+
+
+
