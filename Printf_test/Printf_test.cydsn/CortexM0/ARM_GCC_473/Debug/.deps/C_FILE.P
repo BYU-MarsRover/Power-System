@@ -1,0 +1,66 @@
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/CortexM0/ARM_GCC_473/Debug/main.o : Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_IRQ.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_Test.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_Test_aliases.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_intClock.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyFlash.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyLib.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/LED.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/LED_aliases.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_PINS.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_PVT.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART_PVT.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_rx.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_rx_aliases.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_tx.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_tx_aliases.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cm0.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cmFunc.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cmInstr.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyPm.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydevice_trm.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydisabledsheets.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cypins.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cytypes.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/project.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/tinyprintf_1_printf.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/main.c 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_IRQ.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_Test.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_Test_aliases.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_intClock.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/LED.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/LED_aliases.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_PINS.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_PVT.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART_PVT.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_rx.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_rx_aliases.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_tx.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/UART_1_tx_aliases.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cmFunc.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/core_cmInstr.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/project.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/tinyprintf_1_printf.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/main.c : 
+

@@ -1,0 +1,23 @@
+Mars Rover 2015
+Power System Notes
+
+
+Objectives Completed
+	Design of analog circuitry for PSOC 4 ADC (Battery monitor), as well as approximate models for other components to use in modelling power consumption. (See Power System Schematic)
+	
+	Configuration of the PSOC 4 ADC (see printf_test workspace)
+		Note: This compares the value of the input voltage to the 3.3V external reference on pin 1[7], and returns a 16 bit unsigned value.  0 corresponds to 0V, and 65,535 corresponds to 3.3V.  The Conversion factor is 1/19,859.  This will output the correct voltage.  
+		
+	Breadboard construction of the analog circuitry ,and test the serial output.
+
+	
+Current Objectives
+	Finalize the tuning for the ADC.  Get it to print the correct voltages as compared to a multimeter reading.
+	
+	Sure up the serial output stream.  During testing it was fairly spotty, and started working randomly. 
+	
+
+Future Objectives 
+	Integrate the ADC into the master controller programming, and make sure its information is relayed back to the base station. 
+	
+	Map out all of the components in the electronics box, and figure out the battery connectors.  

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Printf_test\Printf_test">
+<ExpandedNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\TopDesign.cysch</v>
+<v>Printf_test\Printf_test\Printf_test.cydwr</v>
+<v>Printf_test\Printf_test\Header Files</v>
+<v>Printf_test\Printf_test\Source Files</v>
+<v>Printf_test\Printf_test\Source Files\main.c</v>
+<v>Printf_test\Printf_test\Generated_Source</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_intClock</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test\ADC_Test.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test\ADC_Test.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test\ADC_Test_aliases.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\LED</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\LED\LED.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\LED\LED.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\LED\LED_aliases.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\tinyprintf_1</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\tinyprintf_1\tinyprintf_1_printf.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\tinyprintf_1\tinyprintf_1_printf.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_BOOT.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_PINS.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_PM.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_PVT.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_SPI_UART.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_SPI_UART.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_SPI_UART_INT.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_SPI_UART_PVT.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_UART.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1\UART_1_UART_BOOT.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_rx</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_rx\UART_1_rx.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_rx\UART_1_rx.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_rx\UART_1_rx_aliases.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_tx</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_tx\UART_1_tx.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_tx\UART_1_tx.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\UART_1_tx\UART_1_tx_aliases.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cyfitter.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cymetadata.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\TopDesign.cysch</v>
+<v>Printf_test\Printf_test\Printf_test.cydwr</v>
+<v>Printf_test\Printf_test\Header Files</v>
+<v>Printf_test\Printf_test\Source Files</v>
+<v>Printf_test\Printf_test\Source Files\main.c</v>
+<v>Printf_test\Printf_test\Generated_Source</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_intClock</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test\ADC_Test.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test\ADC_Test.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\ADC_Test\ADC_Test_aliases.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>Printf_test\Printf_test\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Printf_test\Printf_test">
+<ExpandedNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\tinyprintf</v>
+<v>Printf_test\Printf_test\tinyprintf\API</v>
+<v>Printf_test\Printf_test\tinyprintf\API\printf.c</v>
+<v>Printf_test\Printf_test\tinyprintf\API\printf.h</v>
+<v>Printf_test\Printf_test\tinyprintf\tinyprintf.cysym</v>
+<v>Printf_test\Printf_test\TopDesign</v>
+<v>Printf_test\Printf_test\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\tinyprintf</v>
+<v>Printf_test\Printf_test\tinyprintf\API</v>
+<v>Printf_test\Printf_test\tinyprintf\API\printf.c</v>
+<v>Printf_test\Printf_test\tinyprintf\API\printf.h</v>
+<v>Printf_test\Printf_test\tinyprintf\tinyprintf.cysym</v>
+<v>Printf_test\Printf_test\TopDesign</v>
+<v>Printf_test\Printf_test\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\CortexM0</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_INT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_intClock.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_PM.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_Test.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\Cm0Start.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\CyFlash.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\CyLib.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cymetadata.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cyPm.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cyutils.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\LED.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\main.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\tinyprintf_1_printf.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_rx.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_SPI_UART.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_SPI_UART_INT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_tx.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_UART.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_UART_BOOT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Printf_test.elf</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Printf_test.hex</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Printf_test.map</v>
+<v>Printf_test\Printf_test\Printf_test.rpt</v>
+<v>Printf_test\Printf_test\Printf_test_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\CortexM0</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_INT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_intClock.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_PM.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\ADC_Test.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\Cm0Start.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\CyFlash.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\CyLib.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cymetadata.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cyPm.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\cyutils.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\LED.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\main.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\tinyprintf_1_printf.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_rx.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_SPI_UART.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_SPI_UART_INT.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_tx.lst</v>
+<v>Printf_test\Printf_test\CortexM0\ARM_GCC_473\Debug\Listing Files\UART_1_UART.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\PSoC 4 Architecture TRM</v>
+<v>Printf_test\Printf_test\PSoC 4200 Family Datasheet</v>
+<v>Printf_test\Printf_test\System Reference Guide v4_10</v>
+<v>Printf_test\Printf_test\ADC_SAR_SEQ_P4_v1_10</v>
+<v>Printf_test\Printf_test\cy_pins_v2_0</v>
+<v>Printf_test\Printf_test\SCB_P4_v1_20</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Printf_test</v>
+<v>Printf_test\Printf_test</v>
+<v>Printf_test\Printf_test\PSoC 4 Architecture TRM</v>
+<v>Printf_test\Printf_test\PSoC 4200 Family Datasheet</v>
+<v>Printf_test\Printf_test\System Reference Guide v4_10</v>
+<v>Printf_test\Printf_test\ADC_SAR_SEQ_P4_v1_10</v>
+<v>Printf_test\Printf_test\cy_pins_v2_0</v>
+<v>Printf_test\Printf_test\SCB_P4_v1_20</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Printf_test.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Printf_test.cydsn\main.c" />
+<name v=".\Printf_test.cydsn\Printf_test.cydwr" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

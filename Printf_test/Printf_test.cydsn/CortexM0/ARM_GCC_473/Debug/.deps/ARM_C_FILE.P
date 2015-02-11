@@ -1,0 +1,22 @@
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/CortexM0/ARM_GCC_473/Debug/ADC.o : Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyLib.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydevice_trm.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cytypes.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.c 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.c : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/CortexM0/ARM_GCC_473/Debug/ADC_INT.o : Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyLib.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydevice_trm.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cytypes.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_INT.c 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_INT.c : 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/CortexM0/ARM_GCC_473/Debug/ADC_PM.o : Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/CyLib.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cydevice_trm.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cyfitter.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/cytypes.h Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_PM.c 
+
+Z:/OneDrive/Tech/GitHub/Printf_test/Printf_test.cydsn/Generated_Source/PSoC4/ADC_PM.c : 
+
