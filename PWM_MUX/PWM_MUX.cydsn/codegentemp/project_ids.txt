@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\OneDrive\Tech\GitHub\Arm\PWM_MUX\PWM_MUX.cydsn\PWM_MUX.cyprj|26e04207-d9be-4fbc-a216-414933c2179e
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a1766c8f-dd16-4613-968b-29ad51171272
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f76bbc69-dbf3-40f8-9886-9db80dd3f5a8
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|63da38f7-998b-47ba-bbfb-ca1189b1cd0b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2e28fce3-72fa-4522-9aea-d1262108234e
